@@ -1,1 +1,1 @@
-# mini game on js witout backend
+# mini game on js without backend
